@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="416" height="120" viewBox="0 0 416 120" role="img" aria-labelledby="t d">
+  <title id="t">NavBarz</title>
+  <desc id="d">NavBarz: the same window three times, carrying the same three destinations along the bottom, stood up as a rail, then widened into a labelled drawer. The selected destination stays the same throughout.</desc>
+  <g fill="#101114" fill-rule="evenodd">
+    <path transform="translate(0 0)" d="M28,0 H92 A28,28 0 0 1 120,28 V92 A28,28 0 0 1 92,120 H28 A28,28 0 0 1 0,92 V28 A28,28 0 0 1 28,0 Z M28,78 H92 A13,13 0 0 1 105,91 V92 A13,13 0 0 1 92,105 H28 A13,13 0 0 1 15,92 V91 A13,13 0 0 1 28,78 Z M30,91 A7,7 0 1 0 44,91 A7,7 0 1 0 30,91 Z M76,91 A7,7 0 1 0 90,91 A7,7 0 1 0 76,91 Z"/>
+    <path transform="translate(148 0)" d="M28,0 H92 A28,28 0 0 1 120,28 V92 A28,28 0 0 1 92,120 H28 A28,28 0 0 1 0,92 V28 A28,28 0 0 1 28,0 Z M28,15 H29 A13,13 0 0 1 42,28 V92 A13,13 0 0 1 29,105 H28 A13,13 0 0 1 15,92 V28 A13,13 0 0 1 28,15 Z M21,37 A7,7 0 1 0 35,37 A7,7 0 1 0 21,37 Z M21,83 A7,7 0 1 0 35,83 A7,7 0 1 0 21,83 Z"/>
+    <path transform="translate(296 0)" d="M28,0 H92 A28,28 0 0 1 120,28 V92 A28,28 0 0 1 92,120 H28 A28,28 0 0 1 0,92 V28 A28,28 0 0 1 28,0 Z M28,15 H44 A13,13 0 0 1 57,28 V92 A13,13 0 0 1 44,105 H28 A13,13 0 0 1 15,92 V28 A13,13 0 0 1 28,15 Z M20,37 A6,6 0 1 0 32,37 A6,6 0 1 0 20,37 Z M20,83 A6,6 0 1 0 32,83 A6,6 0 1 0 20,83 Z M39,34 H46 A3,3 0 0 1 49,37 V37 A3,3 0 0 1 46,40 H39 A3,3 0 0 1 36,37 V37 A3,3 0 0 1 39,34 Z M39,80 H46 A3,3 0 0 1 49,83 V83 A3,3 0 0 1 46,86 H39 A3,3 0 0 1 36,83 V83 A3,3 0 0 1 39,80 Z"/>
+    <path transform="translate(0 0)" d="M53,91 A7,7 0 1 0 67,91 A7,7 0 1 0 53,91 Z"/>
+    <path transform="translate(148 0)" d="M21,60 A7,7 0 1 0 35,60 A7,7 0 1 0 21,60 Z"/>
+    <path transform="translate(296 0)" d="M20,60 A6,6 0 1 0 32,60 A6,6 0 1 0 20,60 Z M39,57 H46 A3,3 0 0 1 49,60 V60 A3,3 0 0 1 46,63 H39 A3,3 0 0 1 36,60 V60 A3,3 0 0 1 39,57 Z"/>
+  </g>
+</svg>
